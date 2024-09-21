@@ -2,7 +2,13 @@
 
 ## Descripción
 
-#### Este es un Proyecto realizado por el grupo 1 de la Comisión 3 de la Etapa 2 del Informatorio Chaco 2024.Compuesto por los integrantes: Federico Vallejos, Cristian Caballero, Luciano Vazquez y Manuel Serrano, este es un trabajo realizado a través del programa **Visual Studio Code** utilizando el lenguaje de **Python** junto con **Tkinter**. El mismo es una base de la cual se realiza un sistema para consulta de Stock de productos para un supermercado
+Este es un Proyecto realizado por el grupo 1 de la Comisión 3 de la Etapa 2 del Informatorio Chaco 2024. Compuesto por los integrantes: 
+- Federico Vallejos,
+- Cristian Caballero,
+- Luciano Vazquez,
+- Manuel Serrano.
+
+El mismo fue realizado a través del programa **Visual Studio Code** utilizando el lenguaje de **Python** junto con **Tkinter**. El mismo es una base de la cual se realiza un sistema para consulta de Stock de productos para un supermercado
 
 ## Modo de Uso
 
